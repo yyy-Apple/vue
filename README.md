@@ -1,1 +1,3 @@
-# vue
+# Vue
+
+Learning Vue

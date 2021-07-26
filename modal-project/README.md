@@ -1,5 +1,8 @@
 # modal-project
 
+
+<img width=500px src="src/assets/modal.png"> 
+
 ## Project setup
 ```
 npm install

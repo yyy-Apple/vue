@@ -1,6 +1,6 @@
 # reaction-timer
 
-<img src="src/assets/timer.png">
+<img width=500px src="src/assets/timer.png">
 
 ## Project setup
 ```

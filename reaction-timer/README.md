@@ -1,5 +1,7 @@
 # reaction-timer
 
+<img src="src/assets/timer.png">
+
 ## Project setup
 ```
 npm install

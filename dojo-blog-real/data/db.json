@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog.",
+            "body": "Hello there, dear reader! Whether you stumbled onto this website by simple chance or coming here was an intentional decision, I warmly welcome you and I thank you for your visit. If you are expecting a poetic hello, a motivational motto that will sum up my website and an inspiring vision for it, I’m sorry but you’ve caught me on a bad day. As I am laying on the floor of my living room, in an uncomfortable improvised couch made out of pillows, I struggle to get my laptop in a decent position that allows me to freely write, while it’s still physically connected to the internet. I was forced to go a bit old school with it, as the wifi receiver on my laptop is broken. Nothing a hot cappuccino can’t fix, right? Unless you just moved in on your own and have no sugar, because when did you ever need to buy sugar before? So let’s recap. Uncomfortable position. Cold feet. Bad coffee. At least this combination turned out a great writing incentive. Because tonight, with less than two days before my launch deadline, I am determined to write some content and set up the last details and configurations for my website. So if you’re reading this you are enjoying the labour of my work and you should be quite proud of me, as I would rather spend my Tuesday night binge watching Stranger Things. But I made a commitment to this blog, and I am planning to stick with it. So once again, I welcome you to what will be my little personal project for the next years of my life and I invite you to join me on what I know it will be an exciting and unpredictable ride. If you want to know more about me or this blog, take a moment to visit my About page. If you have any questions or want to send any encouragements my way, please leave a comment below or contact me by using this form. Thanks for reading and I hope to see you again soon! And please bare with me as I navigate the uncertain waters of setting up my own website. I will also be making changes and improvements as I go along. If you want to be a part of all that and get exclusive content, join my mailing list by using the form in the sidebar or the one below.",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 CSS tips",
+            "body": "1. Use reset.css.\n 2. Use Shorthand CSS.\n 3. Understanding Class and ID. \n 4. Forget <table>, try <div>. \n 5. CSS Debugging Tools",
+            "tags": [
+                "css",
+                "webdev",
+                "coding"
+            ]
+        }
+    ]
+}

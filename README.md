@@ -1,3 +1,3 @@
 # Vue
 
-Learning Vue
+Learning Vue 3
